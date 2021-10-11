@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "122564092989",
+    "project_id": "radixapp-be9ca",
+    "storage_bucket": "radixapp-be9ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122564092989:android:a2b3b3f04ff2b653357654",
+        "android_client_info": {
+          "package_name": "com.example.flutter_radixweb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122564092989-i2r4u1d64ggh9a77ifagh8qqur9bvudt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_radixweb",
+            "certificate_hash": "7f72c4a5d9c7bd8b2512a57714e9e4210266b6c2"
+          }
+        },
+        {
+          "client_id": "122564092989-eeod19ram3i75s47s9649l6qg9v9njcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfxTV2mzRI8myIhhmSTU4G-00VAT2RuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122564092989-eeod19ram3i75s47s9649l6qg9v9njcj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122564092989-a3nsmrpnbloesvnolq5pj1tbp1f15e1d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterRadixweb"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
